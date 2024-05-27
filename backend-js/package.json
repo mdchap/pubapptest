@@ -1,0 +1,19 @@
+{
+  "name": "pubapptest-backend-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdchap/pubapptest.git"
+  },
+  "author": "Matt Chapman <m.d.chapman0202@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdchap/pubapptest/issues"
+  },
+  "homepage": "https://github.com/mdchap/pubapptest#readme"
+}
