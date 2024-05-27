@@ -1,3 +1,11 @@
+*.env
+target/
+.idea/
+.venv/
+
+
+
+
 .gradle
 **/build/
 !src/**/build/
